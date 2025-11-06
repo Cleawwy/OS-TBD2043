@@ -2,9 +2,9 @@
 
 ✅ Completed | ⬜ In Progress
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Ikarem/OS-TBD2043)
-![GitHub last commit](https://img.shields.io/github/last-commit/Ikarem/OS-TBD2043)
-![GitHub stars](https://img.shields.io/github/stars/Ikarem/OS-TBD2043?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Cleawwy/OS-TBD2043)
+![GitHub last commit](https://img.shields.io/github/last-commit/Cleawwy/OS-TBD2043)
+![GitHub stars](https://img.shields.io/github/stars/Cleawwy/OS-TBD2043?style=social)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 |  Date       | Files Added/Updated         | Description of Work      | Status |
