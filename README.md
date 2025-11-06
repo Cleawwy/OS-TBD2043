@@ -18,4 +18,4 @@
 
 
 ---
-🧠 *Maintained Solely by [Cleawwy](https://github.com/Cleawwy)*  
+🧠 *Maintained Solely by [Cleaver](https://github.com/Cleawwy)*  
